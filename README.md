@@ -8,7 +8,6 @@ This is a simple Rock Paper Scissors game created using HTML, CSS, and JavaScrip
   <li>Responsive design</li>
   <li>Play against the computer</li>
 </ul>
-<br>
 <b>Technologies Used</b>
 <ul>
   <li>HTML</li>
