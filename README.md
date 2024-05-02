@@ -14,3 +14,6 @@ This is a simple Rock Paper Scissors game created using HTML, CSS, and JavaScrip
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+<hr>
+<h1>Link to the Website:</h1>
+<a href="https://khushigc25.github.io/rock-paper-scissors/">Rock Paper Scissors</a>
